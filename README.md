@@ -6,9 +6,9 @@
   <h3 align="center">💻 Full-Stack Developer | 🌍 Passionate Learner | 🚀 ALX Software Engineer</h3>
 
   <p align="center">
-    <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Follow"/></a>
+    <a href="https://github.com/Firezer27"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Follow"/></a>
     <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/></a>
+    <a href="www.linkedin.com/in/firezer-bizuwork-353583323"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/></a>
   </p>
 </div>
 
@@ -102,8 +102,8 @@ I strive to create <strong>solutions that bridge technology and humanity</strong
 ### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/></a>
+  <a href="www.linkedin.com/in/firezer-bizuwork-353583323"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/Firezer27"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/></a>
   <a href="mailto:your@email.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/></a>
 </p>
 
